@@ -1,16 +1,15 @@
-### Hi there 👋
+# I'm Samuel Boulain Holstaine
 
-<!--
-**P1tayaa/P1tayaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Codam student (42 Amsterdam), one day want to make video games as a job. Also a huge youtube watcher. 
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C/C++/C#
+- Godot
+- Unity
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-boulain-holstaine-847b991a9/)
+- [Instagram](https://www.instagram.com/samuelboulain/)
+- [Youtube](https://www.youtube.com/@p1tayaa)
