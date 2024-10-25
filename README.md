@@ -10,7 +10,6 @@
   <a href="https://www.youtube.com/@p1tayaa"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
   <a href="https://www.instagram.com/samuelboulain/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
 </div>
-###
 
 <h1 align="center">P1tayaa Profile</h1>
 
