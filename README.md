@@ -85,18 +85,3 @@ A Bash-like shell written from scratch — processes, pipes and Linux internals 
 </p>
 
 ###
-
-<h3 align="left">📊 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p1tayaa&show_icons=true&theme=dracula&hide_border=true" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1tayaa&layout=compact&theme=dracula&hide_border=true" height="180" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=p1tayaa&theme=dracula&hide_border=true" height="180" alt="streak graph" />
-</div>
-
-###
